@@ -1,0 +1,47 @@
+.order-details-containerE {
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  margin-right: 450px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+.order-details-titleE {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.order-details-contentE {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.order-infoE {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.order-infoE::before {
+  content: "\2022"; /* Add bullet point before each piece of order info */
+  margin-right: 5px;
+}
+
+.order-infoE:last-child {
+  margin-bottom: 20px;
+}
+.vbtn {
+  display: block;
+
+  background-color: #a19528;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+
+  cursor: pointer;
+  transition: background-color 0.3s;
+}

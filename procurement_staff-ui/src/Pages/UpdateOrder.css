@@ -1,0 +1,76 @@
+.order-details-containerZ {
+  margin-top: 30px;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+.order-details-titleZ {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.order-details-contentZ {
+  text-align: center;
+}
+
+.order-infoZ {
+  font-size: 18px;
+  margin: 10px;
+}
+
+.items-titleZ {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.item-listZ {
+  list-style: none;
+  padding: 0;
+}
+
+.itemZ {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.action-buttonZ {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.accept-buttonZ {
+  background-color: #3a823c;
+  color: #ffffff;
+  font-size: 17px;
+  margin-right: 20px;
+  border-radius: 4px;
+  padding: 8px 15px;
+}
+.reject-buttonZ {
+  background-color: #ff0000;
+  font-size: 17px;
+  color: #ffffff;
+  margin-right: 20px;
+  border-radius: 4px;
+  padding: 8px 15px;
+}
+
+.accept-buttonZ:hover {
+  background-color: #245325;
+  cursor: pointer;
+}
+.reject-buttonZ:hover {
+  background-color: #bc0101;
+  cursor: pointer;
+}

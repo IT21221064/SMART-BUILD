@@ -1,0 +1,46 @@
+/* AddOrders.css */
+
+.add-orders-containerB {
+  text-align: center;
+  margin: 20px;
+}
+.add-orders-headingB {
+  font-size: 24px;
+}
+
+.order-formB {
+  background-color: #fbfbfba9;
+  padding: 20px;
+  border-radius: 5px;
+  width: 35%;
+  margin-left: 500px;
+}
+
+.form-labelB {
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.form-inputB {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.place-order-buttonB {
+  background-color: #343434;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.place-order-buttonB:hover {
+  background-color: #000000;
+}
+
+/* You can further customize the styles to match your design preferences. */

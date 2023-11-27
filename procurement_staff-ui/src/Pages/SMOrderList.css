@@ -1,0 +1,49 @@
+.main-containerC {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 300px;
+  margin-left: 350px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f79e;
+}
+.data-tableC {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.data-tableC td {
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+.header-cellC {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.data-rowC {
+  background-color: #f2f2f2;
+}
+
+.data-cellC {
+  text-align: center;
+  padding: 10px;
+}
+
+.view-buttonC {
+  background-color: #039300;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.view-buttonC:hover {
+  background-color: #107400;
+}
