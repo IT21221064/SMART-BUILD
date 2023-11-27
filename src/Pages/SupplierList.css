@@ -1,0 +1,85 @@
+.supplier-list-containerF {
+  margin-top: 30px;
+  margin-right: 350px;
+  margin-left: 350px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+.add-supplier-buttonF {
+  background-color: #303030;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.add-supplier-buttonF:hover {
+  background-color: #000000;
+}
+
+.supplier-tableF {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #000;
+}
+
+.supplier-tableF th {
+  border: 1px solid #000;
+}
+
+.supplier-tableF td {
+  border: 1px solid #000;
+}
+
+.header-cellF {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.data-rowF:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.data-rowF:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+.data-cellF {
+  text-align: center;
+  padding: 10px;
+}
+
+.action-buttonF {
+  background-color: #24b001;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.action-buttonF:hover {
+  background-color: #189200;
+}
+
+.action-buttonDF {
+  background-color: #ab0000;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.action-buttonDF:hover {
+  background-color: #8b0101;
+}

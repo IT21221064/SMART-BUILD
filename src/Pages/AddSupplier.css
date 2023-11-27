@@ -1,0 +1,46 @@
+.add-supplier-containerG {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+.supplier-formG {
+  text-align: center;
+  width: 95%;
+}
+
+.add-supplier-titleG {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-labelG {
+  font-size: 18px;
+}
+
+.form-inputG {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-buttonG {
+  background-color: #424242;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-buttonG:hover {
+  background-color: #000000;
+}
